@@ -8,5 +8,4 @@ A simple **Netflix Clone** built using **HTML** and **CSS** to strengthen fundam
 - **HTML5** – Structuring the webpage.
 - **CSS3** – Styling and layout.
 
-## Acknowledgement
-Inspired by CodeWithHarry youtube tutorial.
+
